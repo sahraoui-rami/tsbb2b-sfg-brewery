@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/G3FptJgVm3WDMpAEUEQuRT/JTsvoynfNDLHQBXnTdykAT/tree/02_circleci.svg?style=svg&circle-token=7c0ce4ff64fd22d3a2b5be9242cb79718aca616e)](https://dl.circleci.com/status-badge/redirect/circleci/G3FptJgVm3WDMpAEUEQuRT/JTsvoynfNDLHQBXnTdykAT/tree/02_circleci)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/G3FptJgVm3WDMpAEUEQuRT/JTsvoynfNDLHQBXnTdykAT/tree/03_brewery.svg?style=svg&circle-token=7c0ce4ff64fd22d3a2b5be9242cb79718aca616e)](https://dl.circleci.com/status-badge/redirect/circleci/G3FptJgVm3WDMpAEUEQuRT/JTsvoynfNDLHQBXnTdykAT/tree/03_brewery)
 # Testing Spring Boot B2G - SFG Brewery
 
 All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
