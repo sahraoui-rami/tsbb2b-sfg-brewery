@@ -103,6 +103,11 @@
             <artifactId>mockito-junit-jupiter</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>uk.co.paulbenn</groupId>
+            <artifactId>wiremock-junit5-extension</artifactId>
+            <version>0.1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
